@@ -1,0 +1,4 @@
+neat-python==1.1.0
+ipykernel==7.2.0
+yfinance==1.2.0
+scikit-learn==1.8.0
